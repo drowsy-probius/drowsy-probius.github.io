@@ -20,13 +20,13 @@ url: 'https://k123s456h.github.io'
 
 author: Kim Seokhee                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/avatar.png   # support internet resources
 
 github:
   username: k123s456h             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: None            # change to your twitter username
 
 social:
   name: k123s456h                  # it will shows as the copyright owner in Footer
