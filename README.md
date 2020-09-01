@@ -1,3 +1,11 @@
+# 실행
+
+bash ./tools/run.sh --host 0.0.0.0 --port 1234
+
+
+
+
+
 # Chirpy
 
 🌏 English • [简体中文](docs/README_zh-CN.md)
