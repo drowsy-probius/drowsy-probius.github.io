@@ -2,6 +2,7 @@
 
 bash ./tools/run.sh --host 0.0.0.0 --port 1234
 
+bash tools/publish.sh $$ bash tools/push.sh
 
 
 
