@@ -2,7 +2,9 @@
 
 bash ./tools/run.sh --host 0.0.0.0 --port 1234
 
-bash tools/publish.sh $$ bash tools/push.sh
+# 깃허브 업로드
+# 순서 중요
+bash tools/push.sh && bash tools/publish.sh
 
 
 
