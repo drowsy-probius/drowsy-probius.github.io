@@ -2,7 +2,7 @@ import {Wave} from './wave.js';
 import {Rectangle} from './rectangle.js';
 
 export class WaveRectangle{
-  constructor(color, points, recWidth=100, recHeight=50){
+  constructor(color, points, recWidth=100, recHeight=30){
     this.wave = new Wave(color, points);
     this.boatPoint = Math.floor(points / 2);
     this.recWidth = recWidth;

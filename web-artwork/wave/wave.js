@@ -65,6 +65,6 @@ export class Wave {
     ctx.fillStyle = this.color;
     ctx.fill();
     // ctx.stroke(); // 윤곽선 칠하기
-    ctx.closePath();
+    // ctx.closePath(); // fill하면 자동으로 closePath됨
   }
 }
