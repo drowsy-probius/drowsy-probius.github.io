@@ -1,0 +1,2 @@
+body,html{height:100%;overflow:hidden;padding:0;width:100%}#root,body{margin:0}#root{height:100%;padding:0;width:100%}#root #navbar{background-color:rgba(204,255,218,.5);padding-bottom:1em;padding-top:.8em;position:absolute;top:-2.4em;transition:.3s;width:100%;z-index:1}#root #navbar ul{display:flex;justify-content:space-around;list-style-type:none;margin:0}#root #navbar *{color:#000;text-decoration:none}#root #navbar:hover{top:0}#root #content{display:block;height:100%;width:100%}
+/*# sourceMappingURL=main.b48dd252.css.map*/
