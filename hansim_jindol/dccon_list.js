@@ -124,6 +124,6 @@ dcConsData = [
 
 /*분류전 디시콘 리스트*/
 {"name":"불편.png", "keywords":["불편"]},
-{"name":"편안.png", "keywords":["편안"]},
+{"name":"편안.png", "keywords":["편안"]}
 
 ];
