@@ -234,6 +234,7 @@ dcConsData = [
   { "name": "볼트독서.png", "keywords": ["볼트독서"] },
 
   { "name": "볼트전구.png", "keywords": ["볼트전구"] },
-  { "name": "볼트천재.png", "keywords": ["볼트천재"] },
-
+  { "name": "볼트천재.png", "keywords": ["볼트천재"] }
+  
+  // remove trailing comma
 ];
