@@ -87,7 +87,7 @@ dcConsData = [
   // { "name": "야숭분노3.png", "keywords": ["야숭분노3"] },
   { "name": "야숭야스.png", "keywords": ["야숭야스"] },
   // { "name": "야숭야스2.png", "keywords": ["야숭야스2"] },
-  // { "name": "야숭야스각.png", "keywords": ["야스각"] },
+  { "name": "야숭야스각.png", "keywords": ["야숭야스각"] },
   // { "name": "야숭야스각2.png", "keywords": ["야스각2"] },
   // { "name": "야숭야스각3.png", "keywords": ["야스각3"] },
   { "name": "야숭위태.gif", "keywords": ["야숭위태"] },
