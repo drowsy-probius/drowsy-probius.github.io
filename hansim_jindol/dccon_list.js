@@ -154,6 +154,7 @@ dcConsData = [
   { "name": "광대.jpg", "keywords": ["광대"] },
   { "name": "마참내.png", "keywords": ["마참내"] },
   { "name": "축하해.gif", "keywords": ["축하해"] },
+  { "name": "간계밥.gif", "keywords": ["간계밥"] },
 
   // 볼트콘 목록
   { "name": "볼트기계.png", "keywords": ["볼트기계"] },
