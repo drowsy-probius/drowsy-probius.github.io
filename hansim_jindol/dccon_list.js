@@ -178,7 +178,7 @@ dcConsData = [
   { "name": "볼트전기톱.png", "keywords": ["볼트전기톱"] },
   { "name": "볼트장전.png", "keywords": ["볼트장전"] },
   { "name": "볼트저격.png", "keywords": ["볼트저격"] },
-  { "name": "볼트라이플.png", "keywords": ["볼트라이플"] },
+  // { "name": "볼트라이플.png", "keywords": ["볼트라이플"] },
   { "name": "볼트화염병.png", "keywords": ["볼트화염병"] },
 
   { "name": "볼트주먹.png", "keywords": ["볼트주먹"] },
