@@ -23,9 +23,9 @@ dcConsData = [
   { "name": "눈물호라.png", "keywords": ["눈물호라"] },
   { "name": "그렇군요.png", "keywords": ["그렇군요"] },
   { "name": "무신.png", "keywords": ["무신"] },
-  { "name": "안아줘요2.png", "keywords": ["안아줘요2"] },
-  { "name": "패파감사.png", "keywords": ["패파감사"] },
-  { "name": "이상해요.png", "keywords": ["이상해요"] },
+  // { "name": "안아줘요2.png", "keywords": ["안아줘요2"] },
+  // { "name": "패파감사.png", "keywords": ["패파감사"] },
+  // { "name": "이상해요.png", "keywords": ["이상해요"] },
   { "name": "윙맨금지.png", "keywords": ["윙맨금지"] },
 
 
@@ -109,7 +109,6 @@ dcConsData = [
   { "name": "진돌쉴라.png", "keywords": ["진돌쉴라"] },
 
 
-
   /*진돌 파송콘 리스트*/
 
   { "name": "진돌페페.png", "keywords": ["진돌페페"] },
@@ -119,7 +118,7 @@ dcConsData = [
   { "name": "진돌야스.png", "keywords": ["진돌야스"] },
   { "name": "진돌살1자.png", "keywords": ["진돌살1자"] },
   { "name": "진돌하트.png", "keywords": ["진돌하트"] },
-  { "name": "안아줘요.png", "keywords": ["안아줘요"] },
+  // { "name": "안아줘요.png", "keywords": ["안아줘요"] },
 
 
   /*분류전 디시콘 리스트*/
@@ -140,23 +139,43 @@ dcConsData = [
   { "name": "진돌병신.png", "keywords": ["진돌병신"] },
   { "name": "개못.png", "keywords": ["개못"] },
   { "name": "파로마.gif", "keywords": ["파로마"] },
+
   { "name": "페페덜덜덜.gif", "keywords": ["페페덜덜덜"] },
   { "name": "페바.gif", "keywords": ["페바"] },
   { "name": "두근두근.gif", "keywords": ["두근두근"] },
   { "name": "진돌아.png", "keywords": ["진돌아"] },
   // { "name": "연탄앵무.gif", "keywords": ["연탄앵무"] },
+
   // { "name": "진돌교주.gif", "keywords": ["진돌교주"] },
   { "name": "꼬우면.gif", "keywords": ["꼬우면"] },
   { "name": "악마라라.png", "keywords": ["악마라라"] },
   { "name": "욘두방갈.png", "keywords": ["욘두방갈"] },
   { "name": "골든지붕.png", "keywords": ["골든지붕"] },
+
   { "name": "광클.gif", "keywords": ["광클"] },
   { "name": "광대.jpg", "keywords": ["광대"] },
   { "name": "마참내.png", "keywords": ["마참내"] },
   { "name": "축하해.gif", "keywords": ["축하해"] },
   { "name": "간계밥.gif", "keywords": ["간계밥"] },
 
+  { "name": "파킨.gif", "keywords": ["파킨"] },
+  { "name": "할매댄스.gif", "keywords": ["할매댄스"] },
+  { "name": "우리핵안녕.gif", "keywords": ["우리핵안녕"] },
+
   // 볼트콘 목록
+  { "name": "볼트댕댕.png", "keywords": ["볼트댕댕"] },
+  { "name": "볼트활활.png", "keywords": ["볼트활활"] },
+  { "name": "볼트침대.png", "keywords": ["볼트침대"] },
+  { "name": "볼트대머리.png", "keywords": ["볼트대머리"] },
+  { "name": "볼트나무.png", "keywords": ["볼트나무"] },
+
+  { "name": "볼트병신.png", "keywords": ["볼트병신"] },
+  { "name": "볼트등골.png", "keywords": ["볼트등골"] },
+  { "name": "볼트가정사.png", "keywords": ["볼트가정사"] },
+  { "name": "볼트동정.png", "keywords": ["볼트동정"] },
+  { "name": "볼트넷친구.png", "keywords": ["볼트넷친구"] },
+  { "name": "볼트넷여친.png", "keywords": ["볼트넷여친"] },
+
   { "name": "볼트기계.png", "keywords": ["볼트기계"] },
   { "name": "볼트결혼.png", "keywords": ["볼트결혼"] },
   { "name": "볼트비밀친구.png", "keywords": ["볼트비밀친구"] },
