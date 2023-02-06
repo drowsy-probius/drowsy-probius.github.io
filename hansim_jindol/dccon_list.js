@@ -90,7 +90,7 @@ dcConsData = [
   { "name": "야숭야스각.png", "keywords": ["야숭야스각"] },
   // { "name": "야숭야스각2.png", "keywords": ["야스각2"] },
   // { "name": "야숭야스각3.png", "keywords": ["야스각3"] },
-  { "name": "야숭위태.gif", "keywords": ["야숭위태"] },
+  // { "name": "야숭위태.gif", "keywords": ["야숭위태"] },
   { "name": "야숭ㅗ.gif", "keywords": ["ㅗ"] },
   { "name": "문열어.gif", "keywords": ["문열어"] },
 
@@ -164,7 +164,7 @@ dcConsData = [
 
   // 볼트콘 목록
   { "name": "볼트댕댕.png", "keywords": ["볼트댕댕"] },
-  { "name": "볼트활활.png", "keywords": ["볼트활활"] },
+  // { "name": "볼트활활.png", "keywords": ["볼트활활"] },
   { "name": "볼트침대.png", "keywords": ["볼트침대"] },
   { "name": "볼트대머리.png", "keywords": ["볼트대머리"] },
   { "name": "볼트나무.png", "keywords": ["볼트나무"] },
