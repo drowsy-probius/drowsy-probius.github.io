@@ -163,6 +163,10 @@ dcConsData = [
   { "name": "우리핵안녕.gif", "keywords": ["우리핵안녕"] },
   { "name": "펀쿨끄덕.gif", "keywords": ["펀쿨끄덕"] },
 
+  { "name": "3분.gif", "keywords": ["3분"] },
+  { "name": "3분요리.gif", "keywords": ["3분요리"] },
+
+
   // 볼트콘 목록
   { "name": "볼트댕댕.png", "keywords": ["볼트댕댕"] },
   // { "name": "볼트활활.png", "keywords": ["볼트활활"] },
