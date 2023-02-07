@@ -161,6 +161,7 @@ dcConsData = [
   { "name": "파킨.gif", "keywords": ["파킨"] },
   { "name": "할매댄스.gif", "keywords": ["할매댄스"] },
   { "name": "우리핵안녕.gif", "keywords": ["우리핵안녕"] },
+  { "name": "펀쿨끄덕.gif", "keywords": ["펀쿨끄덕"] },
 
   // 볼트콘 목록
   { "name": "볼트댕댕.png", "keywords": ["볼트댕댕"] },
@@ -262,6 +263,6 @@ dcConsData = [
 
   { "name": "볼트전구.png", "keywords": ["볼트전구"] },
   { "name": "볼트천재.png", "keywords": ["볼트천재"] }
-  
+
   // remove trailing comma
 ];
