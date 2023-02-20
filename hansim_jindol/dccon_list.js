@@ -21,7 +21,7 @@ dcConsData = [
   { "name": "눈물패파.png", "keywords": ["눈물패파"] },
   { "name": "눈물퓨즈.png", "keywords": ["눈물퓨즈"] },
   { "name": "눈물호라.png", "keywords": ["눈물호라"] },
-  { "name": "그렇군요.png", "keywords": ["그렇군요"] },
+  // { "name": "그렇군요.png", "keywords": ["그렇군요"] },
   { "name": "무신.png", "keywords": ["무신"] },
   // { "name": "안아줘요2.png", "keywords": ["안아줘요2"] },
   // { "name": "패파감사.png", "keywords": ["패파감사"] },
@@ -140,8 +140,6 @@ dcConsData = [
   { "name": "개못.png", "keywords": ["개못"] },
   { "name": "파로마.gif", "keywords": ["파로마"] },
 
-  { "name": "페페덜덜덜.gif", "keywords": ["페페덜덜덜"] },
-  { "name": "페바.gif", "keywords": ["페바"] },
   { "name": "두근두근.gif", "keywords": ["두근두근"] },
   { "name": "진돌아.png", "keywords": ["진돌아"] },
   // { "name": "연탄앵무.gif", "keywords": ["연탄앵무"] },
@@ -162,7 +160,6 @@ dcConsData = [
   { "name": "할매댄스.gif", "keywords": ["할매댄스"] },
   { "name": "우리핵안녕.gif", "keywords": ["우리핵안녕"] },
   { "name": "펀쿨끄덕.gif", "keywords": ["펀쿨끄덕"] },
-  { "name": "페페페페.gif", "keywords": ["페페페페"] },
 
   { "name": "3분.gif", "keywords": ["3분"] },
   { "name": "3분요리.gif", "keywords": ["3분요리"] },
@@ -171,8 +168,47 @@ dcConsData = [
   { "name": "이풍당당.gif", "keywords": ["이풍당당"] },
   { "name": "문풍당당.gif", "keywords": ["문풍당당"] },
 
+  { "name": "몬스터.jpg", "keywords": ["몬스터"] },
 
-  // 볼트콘 목록
+
+  // 에펙리얼콘
+  { "name": "리얼뉴캐슬.gif", "keywords": ["리얼뉴캐슬"] },
+  { "name": "리얼라라.gif", "keywords": ["리얼라라"] },
+  { "name": "리얼램파트.gif", "keywords": ["리얼램파트"] },
+  { "name": "리얼레버.gif", "keywords": ["리얼레버"] },
+  { "name": "리얼레이스.gif", "keywords": ["리얼레이스"] },
+
+  { "name": "리얼로바.gif", "keywords": ["리얼로바"] },
+  { "name": "리얼매기.gif", "keywords": ["리얼매기"] },
+  { "name": "리얼미라지.gif", "keywords": ["리얼미라지"] },
+  { "name": "리얼발키리.gif", "keywords": ["리얼발키리"] },
+  { "name": "리얼방갈.gif", "keywords": ["리얼방갈"] },
+
+  { "name": "리얼밴티지.gif", "keywords": ["리얼밴티지"] },
+  { "name": "리얼블하.gif", "keywords": ["리얼블하"] },
+  { "name": "리얼시어.gif", "keywords": ["리얼시어"] },
+  { "name": "리얼애쉬.gif", "keywords": ["리얼애쉬"] },
+  { "name": "리얼옥테인.gif", "keywords": ["리얼옥테인"] },
+
+  { "name": "리얼왓슨.gif", "keywords": ["리얼왓슨"] },
+  { "name": "리얼지붕.gif", "keywords": ["리얼지붕"] },
+  { "name": "리얼코스틱.gif", "keywords": ["리얼코스틱"] },
+  { "name": "리얼크립토.gif", "keywords": ["리얼크립토"] },
+  { "name": "리얼패파.gif", "keywords": ["리얼패파"] },
+
+  { "name": "리얼퓨즈.gif", "keywords": ["리얼퓨즈"] },
+  { "name": "리얼호라.gif", "keywords": ["리얼호라"] },
+
+
+  // 페페콘
+  { "name": "페페덜덜덜.gif", "keywords": ["페페덜덜덜"] },
+  { "name": "페바.gif", "keywords": ["페바"] },
+  { "name": "페페페페.gif", "keywords": ["페페페페"] },
+  { "name": "페페마법.gif", "keywords": ["페페마법"] },
+  { "name": "페페.gif", "keywords": ["페페"] },
+
+
+  // 볼트콘
   { "name": "볼트댕댕.png", "keywords": ["볼트댕댕"] },
   // { "name": "볼트활활.png", "keywords": ["볼트활활"] },
   { "name": "볼트침대.png", "keywords": ["볼트침대"] },
