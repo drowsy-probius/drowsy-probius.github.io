@@ -82,7 +82,7 @@ dcConsData = [
   // { "name": "야숭고민3.png", "keywords": ["야숭고민3"] },
   { "name": "야숭내놔.gif", "keywords": ["야숭내놔"] },
   { "name": "야숭벅벅.png", "keywords": ["야숭벅벅"] },
-  { "name": "야숭분노.png", "keywords": ["야숭분노"] },
+  // { "name": "야숭분노.png", "keywords": ["야숭분노"] },
   // { "name": "야숭분노2.gif", "keywords": ["야숭분노2"] },
   // { "name": "야숭분노3.png", "keywords": ["야숭분노3"] },
   { "name": "야숭야스.png", "keywords": ["야숭야스"] },
@@ -169,7 +169,15 @@ dcConsData = [
   { "name": "문풍당당.gif", "keywords": ["문풍당당"] },
 
   { "name": "몬스터.jpg", "keywords": ["몬스터"] },
+  { "name": "돈냄새.gif", "keywords": ["돈냄새"] },
+  { "name": "의도된.gif", "keywords": ["의도된"] },
 
+  { "name": "화방.gif", "keywords": ["화방"] },
+  { "name": "활활댄스.gif", "keywords": ["활활댄스"] },
+  { "name": "흑형폭발.gif", "keywords": ["흑형폭발"] },
+  { "name": "성능충.gif", "keywords": ["성능충"] },
+  { "name": "선생따봉.png", "keywords": ["선생따봉"] },
+  { "name": "완장찬양.jpg", "keywords": ["완장찬양"] },
 
   // 에펙리얼콘
   { "name": "리얼뉴캐슬.gif", "keywords": ["리얼뉴캐슬"] },
@@ -206,6 +214,9 @@ dcConsData = [
   { "name": "페페페페.gif", "keywords": ["페페페페"] },
   { "name": "페페마법.gif", "keywords": ["페페마법"] },
   { "name": "페페.gif", "keywords": ["페페"] },
+
+  { "name": "페페저퀄.gif", "keywords": ["페페저퀄"] },
+  { "name": "페페봉기.gif", "keywords": ["페페봉기"] },
 
 
   // 볼트콘
