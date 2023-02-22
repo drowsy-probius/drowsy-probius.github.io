@@ -182,6 +182,7 @@ dcConsData = [
   { "name": "만두떡상.png", "keywords": ["만두떡상"] },
   { "name": "만두떡락.png", "keywords": ["만두떡락"] },
   { "name": "화재스펀.gif", "keywords": ["화재스펀"] },
+  { "name": "뇌혼란.gif", "keywords": ["뇌혼란"] },
 
 
   // 에펙리얼콘
