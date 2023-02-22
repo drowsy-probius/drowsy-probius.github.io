@@ -176,8 +176,13 @@ dcConsData = [
   { "name": "활활댄스.gif", "keywords": ["활활댄스"] },
   { "name": "흑형폭발.gif", "keywords": ["흑형폭발"] },
   { "name": "성능충.gif", "keywords": ["성능충"] },
-  { "name": "선생따봉.png", "keywords": ["선생따봉"] },
-  { "name": "완장찬양.jpg", "keywords": ["완장찬양"] },
+  // { "name": "선생따봉.png", "keywords": ["선생따봉"] },
+  // { "name": "완장찬양.jpg", "keywords": ["완장찬양"] },
+
+  { "name": "만두떡상.png", "keywords": ["만두떡상"] },
+  { "name": "만두떡락.png", "keywords": ["만두떡락"] },
+  { "name": "화재스펀.gif", "keywords": ["화재스펀"] },
+
 
   // 에펙리얼콘
   { "name": "리얼뉴캐슬.gif", "keywords": ["리얼뉴캐슬"] },
@@ -213,10 +218,12 @@ dcConsData = [
   { "name": "페바.gif", "keywords": ["페바"] },
   { "name": "페페페페.gif", "keywords": ["페페페페"] },
   { "name": "페페마법.gif", "keywords": ["페페마법"] },
-  { "name": "페페.gif", "keywords": ["페페"] },
+  { "name": "페페그런건.gif", "keywords": ["페페그런건"] },
 
   { "name": "페페저퀄.gif", "keywords": ["페페저퀄"] },
   { "name": "페페봉기.gif", "keywords": ["페페봉기"] },
+  { "name": "페페따봉.png", "keywords": ["페페따봉"] },
+
 
 
   // 볼트콘
