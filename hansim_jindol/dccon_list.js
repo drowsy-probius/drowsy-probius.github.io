@@ -179,6 +179,11 @@ dcConsData = [
   // { "name": "선생따봉.png", "keywords": ["선생따봉"] },
   // { "name": "완장찬양.jpg", "keywords": ["완장찬양"] },
 
+  { "name": "나노머신.gif", "keywords": ["나노머신"] },
+  { "name": "연타.gif", "keywords": ["연타"] },
+  { "name": "의원죽빵.gif", "keywords": ["의원죽빵"] },
+  { "name": "채찍질.gif", "keywords": ["채찍질"] },
+
   { "name": "만두떡상.png", "keywords": ["만두떡상"] },
   { "name": "만두떡락.png", "keywords": ["만두떡락"] },
   { "name": "화재스펀.gif", "keywords": ["화재스펀"] },
