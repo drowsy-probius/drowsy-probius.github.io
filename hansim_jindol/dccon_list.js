@@ -158,7 +158,6 @@ dcConsData = [
 
   { "name": "파킨.gif", "keywords": ["파킨"] },
   { "name": "할매댄스.gif", "keywords": ["할매댄스"] },
-  { "name": "우리핵안녕.gif", "keywords": ["우리핵안녕"] },
   { "name": "펀쿨끄덕.gif", "keywords": ["펀쿨끄덕"] },
 
   { "name": "3분.gif", "keywords": ["3분"] },
@@ -189,6 +188,14 @@ dcConsData = [
   { "name": "화재스펀.gif", "keywords": ["화재스펀"] },
   { "name": "뇌혼란.gif", "keywords": ["뇌혼란"] },
 
+  // 우리핵
+  { "name": "우리핵안녕.gif", "keywords": ["우리핵안녕"] },
+  { "name": "우리핵아닌데.gif", "keywords": ["우리핵아닌데"] },
+  { "name": "우리핵박수.gif", "keywords": ["우리핵박수"] },
+  { "name": "우리핵박수2.gif", "keywords": ["우리핵박수2"] },
+  { "name": "우리핵박수3.gif", "keywords": ["우리핵박수3"] },
+
+  { "name": "우리핵생각.gif", "keywords": ["우리핵생각"] },
 
   // 에펙리얼콘
   { "name": "리얼뉴캐슬.gif", "keywords": ["리얼뉴캐슬"] },
