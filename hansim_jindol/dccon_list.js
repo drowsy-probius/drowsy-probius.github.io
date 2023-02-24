@@ -159,6 +159,7 @@ dcConsData = [
   { "name": "파킨.gif", "keywords": ["파킨"] },
   { "name": "할매댄스.gif", "keywords": ["할매댄스"] },
   { "name": "펀쿨끄덕.gif", "keywords": ["펀쿨끄덕"] },
+  { "name": "확대놀람.gif", "keywords": ["확대놀람"] },
 
   { "name": "3분.gif", "keywords": ["3분"] },
   { "name": "3분요리.gif", "keywords": ["3분요리"] },
