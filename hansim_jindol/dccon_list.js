@@ -169,6 +169,9 @@ dcConsData = [
   { "name": "문풍당당.gif", "keywords": ["문풍당당"] },
 
   { "name": "몬스터.jpg", "keywords": ["몬스터"] },
+  { "name": "몬스터망고로코.jpg", "keywords": ["몬스터망고로코"] },
+  { "name": "몬스터시트라.jpg", "keywords": ["몬스터시트라"] },
+  { "name": "몬스터울트라.jpg", "keywords": ["몬스터울트라"] },
   { "name": "돈냄새.gif", "keywords": ["돈냄새"] },
   { "name": "의도된.gif", "keywords": ["의도된"] },
 
