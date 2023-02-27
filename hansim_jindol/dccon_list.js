@@ -237,6 +237,8 @@ dcConsData = [
   { "name": "페페저퀄.gif", "keywords": ["페페저퀄"] },
   { "name": "페페봉기.gif", "keywords": ["페페봉기"] },
   { "name": "페페따봉.png", "keywords": ["페페따봉"] },
+  { "name": "페페예스.png", "keywords": ["페페예스"] },
+  { "name": "페페노.png", "keywords": ["페페노"] },
 
 
 
