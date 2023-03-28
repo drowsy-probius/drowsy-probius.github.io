@@ -65,6 +65,8 @@ dcConsData = [
   { "name": "제리한심2.gif", "keywords": ["제리한심2"] },
   { "name": "제리화남.gif", "keywords": ["제리화남"] },
 
+  { "name": "제리찍먹.gif", "keywords": ["제리찍먹"] },
+
   /*칠레감탄 디시콘 리스트*/
 
   { "name": "칠레감탄.gif", "keywords": ["칠레감탄"] },
@@ -196,6 +198,15 @@ dcConsData = [
   { "name": "화재스펀.gif", "keywords": ["화재스펀"] },
   { "name": "뇌혼란.gif", "keywords": ["뇌혼란"] },
 
+  { "name": "혼란앵무.gif", "keywords": ["혼란앵무"] },
+  { "name": "더블앵무.gif", "keywords": ["더블앵무"] },
+  { "name": "문워크앵무.gif", "keywords": ["문워크앵무"] },
+
+  { "name": "총구돌려.gif", "keywords": ["총구돌려"] },
+  { "name": "따일즈.png", "keywords": ["따일즈"] },
+  { "name": "이지붐.jpg", "keywords": ["이지붐"] },
+
+
   // 우리핵
   { "name": "우리핵안녕.gif", "keywords": ["우리핵안녕"] },
   { "name": "우리핵아닌데.gif", "keywords": ["우리핵아닌데"] },
@@ -232,6 +243,11 @@ dcConsData = [
 
   { "name": "리얼퓨즈.gif", "keywords": ["리얼퓨즈"], "tags": ["에펙"] },
   { "name": "리얼호라.gif", "keywords": ["리얼호라"], "tags": ["에펙"] },
+
+  // etc
+  { "name": "고뱀부즐.png", "keywords": ["고뱀부즐"], "tags": ["에펙"] },
+  { "name": "뱀부즐.jpg", "keywords": ["뱀부즐"], "tags": ["에펙"] },
+  { "name": "뱀뱀부즐.jpg", "keywords": ["뱀뱀부즐"], "tags": ["에펙"] },
 
 
   // 페페콘
