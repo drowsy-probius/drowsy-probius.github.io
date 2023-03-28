@@ -245,7 +245,6 @@ dcConsData = [
   { "name": "리얼호라.gif", "keywords": ["리얼호라"], "tags": ["에펙"] },
 
   // etc
-  { "name": "고뱀부즐.png", "keywords": ["고뱀부즐"], "tags": ["에펙"] },
   { "name": "뱀부즐.jpg", "keywords": ["뱀부즐"], "tags": ["에펙"] },
   { "name": "뱀뱀부즐.jpg", "keywords": ["뱀뱀부즐"], "tags": ["에펙"] },
 
