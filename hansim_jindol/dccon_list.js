@@ -120,7 +120,7 @@ dcConsData = [
   { "name": "진돌야스.png", "keywords": ["진돌야스"], "tags": ["진돌"] },
   { "name": "진돌살1자.png", "keywords": ["진돌살1자"], "tags": ["진돌"] },
   { "name": "진돌하트.png", "keywords": ["진돌하트"], "tags": ["진돌"] },
-  // { "name": "안아줘요.png", "keywords": ["안아줘요"] },
+  { "name": "안아줘요.png", "keywords": ["안아줘요"] },
 
 
   /*분류전 디시콘 리스트*/
@@ -155,6 +155,7 @@ dcConsData = [
   { "name": "악마라라.png", "keywords": ["악마라라"], "tags": ["에펙"] },
   { "name": "욘두방갈.png", "keywords": ["욘두방갈"], "tags": ["에펙"] },
   { "name": "골든지붕.png", "keywords": ["골든지붕"], "tags": ["에펙"] },
+  { "name": "진돌여친.png", "keywords": ["진돌여친"], "tags": ["에펙", "진돌"] },
 
   { "name": "광클.gif", "keywords": ["광클"] },
   { "name": "광대.jpg", "keywords": ["광대"] },
