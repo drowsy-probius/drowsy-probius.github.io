@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.af8d4cf1.css","mappings":"AAAA,gBACE,UACF,CAEA,MACE,wBACF","sources":["index.css"],"sourcesContent":["html, body, #root {\n  width: 100%\n}\n\n#root { \n  background-color: #171923;\n}"],"names":[],"sourceRoot":""}
